@@ -30,6 +30,12 @@
             <artifactId>api</artifactId>
             <version>${fdk.version}</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/com.oracle.oci.sdk/oci-java-sdk-common -->
+        <dependency>
+            <groupId>com.oracle.oci.sdk</groupId>
+            <artifactId>oci-java-sdk-common</artifactId>
+            <version>3.39.1</version>
+        </dependency>
         <dependency>
             <groupId>com.fnproject.fn</groupId>
             <artifactId>testing-core</artifactId>
